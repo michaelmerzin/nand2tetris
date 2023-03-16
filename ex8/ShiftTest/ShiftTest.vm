@@ -1,0 +1,45 @@
+push  constant 14627
+shiftleft
+push constant 24574
+neg
+shiftleft
+push constant 19115
+neg
+shiftleft
+push constant 250
+shiftleft
+push constant 0
+shiftleft
+push constant 1
+neg
+shiftleft
+push constant 365
+neg
+shiftleft
+push constant 30
+neg
+shiftleft
+
+push  constant 14627
+shiftright
+push constant 24575
+neg
+shiftright
+push constant 19114
+neg
+shiftright
+push constant 26
+shiftright
+push constant 250
+shiftright
+push constant 0
+shiftright
+push constant 1
+neg
+shiftright
+push constant 365
+neg
+shiftright
+push constant 30
+neg
+shiftright

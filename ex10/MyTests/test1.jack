@@ -1,0 +1,6 @@
+class Main {
+    static boolean test;
+
+    function void main() {
+    }
+}
