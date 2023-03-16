@@ -1,5 +1,5 @@
 # nand2tetris
-built a computer , from a basic nand gate to a operation system.
+built a computer , from a basic nand gate to a operation system.\n
 project 1 - implementation of basic gates .
 project 2 - implementation of advanced chips .
 project 3 - implementation of a register , counter and ram .
